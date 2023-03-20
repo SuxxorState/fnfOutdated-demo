@@ -37,9 +37,7 @@ If you want video support on your mod, simply do `haxelib install hxCodec` on a 
 
 otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
-# REQUIREMENTS:
-
-I will be editing the API for this, meaning you have to download my custom haxelib library, <a href="https://github.com/TentaRJ/tentools">tentools</a>. 
+You have to download the custom haxelib library, <a href="https://github.com/TentaRJ/tentools">tentools</a>. 
 
 You also need to download and rebuild <a href="https://github.com/haya3218/systools">Haya's version of systools</a>.
 
@@ -50,56 +48,8 @@ haxelib git systools https://github.com/haya3218/systools
 haxelib run lime rebuild systools [windows, mac, linux]
 ```
 
-If you are going to be releasing the source code of a mod with this integration, you need to place a few things into `Project.xml`.
-### Place these into `Project.xml`:
-```xml
-<haxelib name="tentools" />
-<haxelib name="systools" />
-<ndll name="systools" haxelib="systools" />
-```
-
-### Once that is all done, you can place `GameJolt.hx` into the `source/` folder of your project!
-
-## SETUP (GAMEJOLT):
-
-Make sure to add `import GameJolt;` at the top of `main.hx`!
-
-To add your game's keys, you will need to make a file in the source folder named GJKeys.hx (filepath: ../source/GJKeys.hx).
-<br>
-In this file, you will need to add the GJKeys class with two public static variables, `id:Int` and `key:String`.
-
-### `source/GJKeys.hx` example:
-```hx
-package;
-class GJKeys
-{
-    public static var id:Int = 	0; // Put your game's ID here
-    public static var key:String = ""; // Put your game's private API key here
-}
-```
-### **DO NOT SHARE YOUR GAME'S API KEY! You can add `source/GJKeys.hx` to a `.gitignore` file to make sure no one grabs the key! If someone gets it, they can send false data!**
-
-### You can find your game's API key and ID code within the game page's settngs under the game API tab.
-
-## SETUP (TOASTS):
-
 ### **Thank you Firubii for the code for this! Please go check them out!**
 **https://twitter.com/firubiii / https://github.com/firubii**
-
-To setup toasts, you will need to do a few things.
-
-Inside the Main class (Main.hx), you need to make a new variable called toastManager.
-
-`Main.hx`
-```haxe
-public static var gjToastManager:GJToastManager;
-```
-
-Inside the setupGame function in the Main class, you will need to create the toastManager.
-```haxe
-gjToastManager = new GJToastManager();
-addChild(gjToastManager);
-```
 
 ## Credits:
 * Shadow Mario - Programmer
