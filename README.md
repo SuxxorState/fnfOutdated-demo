@@ -37,7 +37,7 @@ If you want video support on your mod, simply do `haxelib install hxCodec` on a 
 
 otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
-You have to download the custom haxelib library, <a href="https://github.com/TentaRJ/tentools">tentools</a>. 
+You have to download the custom haxelib library, <a href="https://github.com/TentaRJ/tentools">TentaRJ's tentools</a>. 
 
 You also need to download and rebuild <a href="https://github.com/haya3218/systools">Haya's version of systools</a>.
 
@@ -56,7 +56,7 @@ haxelib run lime rebuild systools [windows, mac, linux]
 * RiverOaken - Artist
 * Yoshubs - Assistant Programmer
 
-## Gamejolt CREDITS:
+## Gamejolt Intergration CREDITS:
 
 - <a href = "https://github.com/brightfyregit">BrightFyre</a> - Testing and UI design
 - <a href ="https://github.com/haya3218">Haya</a> - Systools fork
