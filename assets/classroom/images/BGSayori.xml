@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGSayori.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGSayANIM0000" x="0" y="0" width="352" height="1173" pivotX="14.55" pivotY="250.4"/>
+	<SubTexture name="BGSayANIM0001" x="0" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0002" x="357" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0003" x="357" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0004" x="714" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0005" x="714" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0006" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0007" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0008" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0009" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0010" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0011" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0012" x="1071" y="0" width="352" height="1173"/>
+	<SubTexture name="BGSayANIM0013" x="1071" y="0" width="352" height="1173"/>
+</TextureAtlas>

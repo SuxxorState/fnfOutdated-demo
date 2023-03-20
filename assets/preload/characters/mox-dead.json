@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MoxAnim_DeathIntro"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MoxAnim_DeathLoop"
+		},
+		{
+			"offsets": [
+				50,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MoxAnim_DeathConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MOX",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mc",
+	"flip_x": true,
+	"healthbar_colors": [
+		96,
+		68,
+		70
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

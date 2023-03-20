@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whole background0000" x="0" y="0" width="3885" height="2291" pivotX="1957.35" pivotY="1204.75"/>
+	<SubTexture name="whole background0001" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0002" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0003" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0004" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0005" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0006" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0007" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0008" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0009" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0010" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0011" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0012" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0013" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0014" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0015" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0016" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0017" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0018" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0019" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0020" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0021" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0022" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0023" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0024" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0025" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0026" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0027" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0028" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0029" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0030" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0031" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0032" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0033" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0034" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0035" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0036" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0037" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0038" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0039" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0040" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0041" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0042" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0043" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0044" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0045" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0046" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0047" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0048" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0049" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0050" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0051" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0052" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0053" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0054" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0055" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0056" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0057" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0058" x="0" y="0" width="3885" height="2291"/>
+	<SubTexture name="whole background0059" x="0" y="0" width="3885" height="2291"/>
+</TextureAtlas>

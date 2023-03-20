@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="godrays.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light instance 10000" x="0" y="0" width="2167" height="1322" pivotX="81" pivotY="81"/>
+</TextureAtlas>
